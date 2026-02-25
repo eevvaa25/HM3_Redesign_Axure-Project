@@ -44,23 +44,23 @@ Axure RP | System Design | Interactive Prototyping
 - Limited real-time interaction testing
 - No live patient deployment
 
-## 🖥 Prototype Screens
+## 🖥 Interface Comparison & Redesign
 
-### HeartMate3 LVAD Controller Original Design 
-
+### 🔴 Original HeartMate3 LVAD Controller Interface 
+Small screen size and ambiguous alerts increased cognitive burden during emergency conditions.
 
 <img src="https://github.com/user-attachments/assets/ec50243b-6401-4d27-9035-9e2eba2b0a11" alt="icon" width="200" />
 
 
-### HeartMate3 LVAD Controller Redesign 
-
+### 🟢 Redesigned HeartMate3 LVAD Controller Interface 
+Introduced color-coded severity alerts and structured troubleshooting workflow to reduce alarm confusion.
 
 <img src="https://github.com/user-attachments/assets/b360686c-c6c8-4e76-b3ce-ac6bbfee84f4" alt="icon" width="200" />
 <img src="https://github.com/user-attachments/assets/35f75c8a-d577-4d70-bd16-7169ceb46f6f" alt="icon" width="200" />
 <img src="https://github.com/user-attachments/assets/e1c25bbc-8722-4dfb-8de3-9b51cadb9d5e" alt="icon" width="200" />
 
 
-### HeartMate3 Companion Mobile Application
+### 📱 HeartMate3 Companion Mobile Application Interface
 
 
 <img src="https://github.com/user-attachments/assets/9a059d01-99af-4756-8ce4-c7d181983df6" alt="icon" width="200" />
