@@ -1,6 +1,12 @@
 # 🫀 HeartMate3 LVAD Controller Redesign
 Axure RP | System Design | Interactive Prototyping
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e8f1120f-44f3-4e7e-8b6a-10534b738b6d" 
+       alt="icon" 
+       width="200" />
+</p>
+
 **Redesigned the HeartMate 3 LVAD controller and companion mobile application to improve alert clarity, patient safety, and caregiver usability through structured workflow and interface optimization.**
 
 ### [🔗 View Project](https://knmufk.axshare.com/)
@@ -39,13 +45,14 @@ Axure RP | System Design | Interactive Prototyping
 - No live patient deployment
 
 ## 🖥 Prototype Screens
-## HeartMate3 LVAD Controller Original Design 
+
+### HeartMate3 LVAD Controller Original Design 
 
 
 <img src="https://github.com/user-attachments/assets/ec50243b-6401-4d27-9035-9e2eba2b0a11" alt="icon" width="200" />
 
 
-## HeartMate3 LVAD Controller Redesign 
+### HeartMate3 LVAD Controller Redesign 
 
 
 <img src="https://github.com/user-attachments/assets/b360686c-c6c8-4e76-b3ce-ac6bbfee84f4" alt="icon" width="200" />
@@ -53,7 +60,7 @@ Axure RP | System Design | Interactive Prototyping
 <img src="https://github.com/user-attachments/assets/e1c25bbc-8722-4dfb-8de3-9b51cadb9d5e" alt="icon" width="200" />
 
 
-## HeartMate3 Companion Mobile Application
+### HeartMate3 Companion Mobile Application
 
 
 <img src="https://github.com/user-attachments/assets/9a059d01-99af-4756-8ce4-c7d181983df6" alt="icon" width="200" />
